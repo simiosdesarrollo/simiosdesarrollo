@@ -21,6 +21,7 @@ se ocupa el prefix `feat/` ya que es una nueva funcionalidad y la descripción `
 
 Basaremos el versionado en `MAJOR.MINOR.PATCH`
 donde:
-`MAJOR`: corresponde a una versión completamente diferente de la actual.
-`MINOR`: incrementa con cada nuevo despliegue a producción desde `develop` o al ser un `hotfix`
-`PATCH`: incrementa en relación a las ramas `feat/` o `fix` que surjan de `develop`, es decir, cada nueva rama de trabajo incrementa el versionado solo en `PATCH`.  
+
+- `MAJOR`: corresponde a una versión completamente diferente de la actual.
+- `MINOR`: incrementa con cada nuevo despliegue a producción desde `develop` o al ser un `hotfix`, esto reinicia `PATCH` a `0`.
+- `PATCH`: incrementa en relación a las ramas `feat/` o `fix` que surjan de `develop`, es decir, cada nueva rama de trabajo incrementa el versionado solo en `PATCH`.  
