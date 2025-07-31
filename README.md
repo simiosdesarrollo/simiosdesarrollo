@@ -1,16 +1,13 @@
-## Hi there 👋
+# Stack Tecnológico
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+- ![ExpressJS](https://img.shields.io/badge/expressjs-blue?style=plastic&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqllite-blue?style=plastic&logoColor=white)
 
-<!--
-**simiosdesarrollo/simiosdesarrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ramas
+- main: Rama productiva
+- develop: Rama principal de desarrollo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nombrado de ramas
+- feat: nueva funcionalidad
+- fix: arreglar bug
+- hotfix: arreglar bug inmediato
